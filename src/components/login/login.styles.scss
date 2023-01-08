@@ -1,0 +1,15 @@
+.sign-in-container {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+  justify-content: center;
+  align-items: center;
+
+  h2 {
+    margin: 40px auto;
+  }
+
+  img {
+    margin-right: 15px;
+  }
+}
